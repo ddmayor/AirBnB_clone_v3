@@ -150,5 +150,5 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 ## Authors
-- Tunde Babatunde - [Github](https://github.com/cedarworth)
-- Douglous Sobei - [Github](https://github.com/Douglous-Sobei)
+- Idowu Mayowa - [Github](https://github.com/ddmayor)
+- [Peter Emmanuel - [Github](https://github.com)
